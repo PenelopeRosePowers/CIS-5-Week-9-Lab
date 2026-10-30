@@ -12,7 +12,8 @@ Work without a working video link is incomplete.
 
 The video is half the grade. Explain what `average` returns and what `printSummary` does, then show a real run.
 
-**Your demo:** _add your link here_
+**Your demo:** [screen-capture (17).webm](https://github.com/user-attachments/assets/1d951560-71f5-4f31-8a53-541ddeac5ee4)
+
 
 
 ## What to build
